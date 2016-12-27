@@ -1,12 +1,19 @@
 # gilmanBlog - a website + blog for my gilman project
 
-	(❤ω❤) - As a reciepient of the Benjamin A. Gilman Scholarship I must complete a scholarship project.
+	(❤ω❤) - As a reciepient of the Benjamin A. Gilman
+	 Scholarship I must complete a scholarship project.
 
-	(❤ω❤) - This website along with two study abroad/gilman scholarship information sessions upon my return are the basis of my project.
+	(❤ω❤) - This website along with two study abroad/gilman
+	 scholarship information sessions upon my return are the basis of my project.
 
-	(❤ω❤) - Will be updating with various content throughout my stay and up to 6 months after the completion of my Fall 2016 semester.
+	(❤ω❤) - Will be updating with various content throughout
+	 my stay and up to 6 months after the completion of my 
+	 Fall 2016 semester.
 
-	(❤ω❤) - After completing my Gilman Project and Graduating from UNCC I intend to move back to Japan. After doing so I intend to upgrade this to a blog for future/potential english-speaking expats in Tokyo/Japan.
+	(❤ω❤) - After completing my Gilman Project and 
+	Graduating from UNCC I intend to move back to Japan.
+	 After doing so I intend to upgrade this to a blog for
+	 future/potential english-speaking expats in Tokyo/Japan.
 
 
 ## 🏆 – Trophy Jekyll Theme
