@@ -1,0 +1,36 @@
+# Site settings
+email: dcampb44@uncc.edu
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: Ukiyo
+description: 
+url: ""
+twitter_username: danielxlachlan
+default_img: 
+
+# Profile settings
+name: Daniel Lachlan Campbell
+profile_img: http://dlachlan.net/gilman/imgs/daniel.jpg
+profile: Daniel is a non-traditional student at University of North Carolina Charlotte,  double-majoring in Computer Science and Japanese. He was awarded the Benjamin A. Gilman Scholarship which has enabled him to study abroad for the Fall 2016 semester at J.F. Oberlin College in Tokyo, Japan.  
+social: 
+  github: http://www.github.com/dxlachlan
+  linkedin: https://www.linkedin.com/in/daniel-campbell-596b7ba6
+  instagram: http://www.instagram.com/daniellachlanx
+
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
