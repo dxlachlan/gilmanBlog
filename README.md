@@ -1,8 +1,16 @@
-# gilmanBlog - A website + blog for my gilman project
-I was awarded the Benjamin A. Gilman Scholarship to study abroad for the Fall 2016 semester in Tokyo Japan. In order to receive the scholarship we must complete a project within 6 months of completing our program abroad. For my project I decided to build, manage, and run, a website/blog while abroad and to complete two information sessions on Study Abroad and the Gilman Scholarship upon return to UNC Charlotte.
+# gilmanBlog - a website + blog for my gilman project
 
-## 🏆 – A Blog Theme for Jekyll
-Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
+	(❤ω❤) - As a reciepient of the Benjamin A. Gilman Scholarship I must complete a scholarship project.
+
+	(❤ω❤) - This website along with two study abroad/gilman scholarship information sessions upon my return are the basis of my project.
+
+	(❤ω❤) - Will be updating with various content throughout my stay and up to 6 months after the completion of my Fall 2016 semester.
+
+	(❤ω❤) - After completing my Gilman Project and Graduating from UNCC I intend to move back to Japan. After doing so I intend to upgrade this to a blog for future/potential english-speaking expats in Tokyo/Japan.
+
+
+## 🏆 – Trophy Jekyll Theme
+This site was built using Jekyll along with a modified version of the Trophy Jekyll theme. Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
 
 ## License
 Trophy is licensed under the MIT License.
