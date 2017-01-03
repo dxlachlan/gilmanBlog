@@ -12,7 +12,8 @@ image-sm: http://dlachlan.net/gilman/imgs/500/narita.jpg
 {{< youtube id="CkC0iKbhz78" autoplay="true" width="460" height="340">}}
 </center>
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=CkC0iKbhz78?autoplay=1" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.CkC0iKbhz78 %}
+
 
 <br>
 
