@@ -12,6 +12,8 @@ image-sm: http://dlachlan.net/gilman/imgs/500/narita.jpg
 {{< youtube id="CkC0iKbhz78" autoplay="true" width="460" height="340">}}
 </center>
 
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=CkC0iKbhz78?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
 <br>
 
 <p>This is my first Video Blog for my Gilman Scholarship. I'll be updating this site with random content as apart of my Gilman Scholarship follow-on project. Once a week I'll be uploading a 2 to 5 minute video of highlighting stuff I've done or experienced while abroad. This one is just random clips from my travels from Charlotte to New York, to Hong Kong, to Tokyo.</p> 
