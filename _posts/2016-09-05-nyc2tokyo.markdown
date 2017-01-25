@@ -8,9 +8,7 @@ description:
 image: http://dlachlan.net/gilman/imgs/2000/narita.jpg
 image-sm: http://dlachlan.net/gilman/imgs/500/narita.jpg
 ---
-<center>
-{{< youtube id="CkC0iKbhz78" autoplay="true" width="460" height="340">}}
-</center>
+
 
 {% include youtubePlayer.html id="CkC0iKbhz78" %}
 
