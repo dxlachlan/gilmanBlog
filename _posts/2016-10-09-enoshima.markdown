@@ -1,0 +1,21 @@
+---
+layout: post
+title: "江ノ島"
+date: 2016-10-05
+categories:
+  - Video
+description: 
+image: http://dlachlan.net/gilman/imgs/2000/enoshima.jpg
+image-sm: http://dlachlan.net/gilman/imgs/500/enoshimasm.jpg
+---
+<br>
+
+<center>
+{% include youtubePlayer.html id="GSzMzE34S88" %}
+</center>
+
+<br>
+
+<p>I took a short day trip to Enoshima to catch a fireworks show. I went solo and wanted to run through and shoot video of Enoshima. I, however, took the wrong train twice and ended up arriving late so I didn't have much daylight to shoot too much video. It got dark pretty early and my Camera doesn't shoot well in the dark. Either way, here you go.</p> 
+
+<br>

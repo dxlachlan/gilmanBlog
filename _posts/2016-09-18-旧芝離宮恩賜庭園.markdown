@@ -1,0 +1,21 @@
+---
+layout: post
+title: "旧芝離宮恩賜庭園"
+date: 2016-09-18
+categories:
+  - Video
+description: 
+image: http://dlachlan.net/gilman/imgs/2000/park.jpg
+image-sm: http://dlachlan.net/gilman/imgs/500/parksm.jpg
+---
+<br>
+
+<center>
+{% include youtubePlayer.html id="Bh4m9bYy2mM" %}
+</center>
+
+<br>
+
+<p>For this weeks video blog I shot some footage around Hamamatsuchou and the Kyu Shiba Rikyu Gardens on a weekday afternoon. I had gone down to meet my friend Shoya Sanpei to train with him at the Jiu Jitsu gym he trains at in Gotanda and met him at Hamamatsu Chou to eat soba before hand. I went a bit early to explore and found this garden and decided to walk around and take some video and pictures. I made a few mistakes in shooting, still learning to not be a dummy with a wide-angle lens. I'm planning on posting another text update but have been a bit delayed. That will be up tomorrow night.</p>
+
+<br>

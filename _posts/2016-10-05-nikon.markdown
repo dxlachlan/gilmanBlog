@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Nikon Museum"
+date: 2016-10-05
+categories:
+  - Video
+description: 
+image: http://dlachlan.net/gilman/imgs/2000/shinagawa.jpg
+image-sm: http://dlachlan.net/gilman/imgs/500/shinagawasm.jpg
+---
+<br>
+
+<center>
+{% include youtubePlayer.html id="rwwxWesB_BA" %}
+</center>
+
+<br>
+
+<p>Short Locational VideoBlog from our trip to visit the Nikon Headquarters Museum in Shinagawa, Tokyo. The museum is small but definitely worth a trip if you're ever in the area in Tokyo. It's a bit hard to find as the Museum is hidden inside of a corporate building in Shinagawa, so it took me a little bit of searching to really find it.</p> 
+
+<br>
