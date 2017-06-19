@@ -1,0 +1,25 @@
+---
+layout: post
+title: "お土産と浅草寺 ( Asakusa )"
+date: 2016-12-12
+categories:
+  - Video
+description: 
+image: http://dlachlan.net/gilman/imgs/2000/asakusa.jpg
+image-sm: http://dlachlan.net/gilman/imgs/500/asakusasm.jpg
+---
+<br>
+
+## Shopping for Souvenirs in Asakusa
+
+<br><br>
+
+<center>
+{% include youtubePlayer.html id="UgKK2y6k1vo" %}
+</center>
+
+<br>
+
+<p>Asakusa is hands down one of my favorite places in Tokyo. When I visited in 2011, I absolutely fell in love with the place. Being in Japan for studies and living close to Tokyo, I was fortunate to be able to visit Asakusa a couple of times during this stay. Seeing as I was going to be leaving Japan in early January and didn't have much time left I needed to start trying to find stuff to bring back to America for friends and close families. So Misato and I made our way down to Asakusa to eat at one of our favorite Izakaya's and do some omiyage shopping. </p>
+
+<br>

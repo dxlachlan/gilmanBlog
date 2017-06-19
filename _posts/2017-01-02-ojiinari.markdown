@@ -1,0 +1,31 @@
+---
+layout: post
+title: "New Years Eve・王子"
+date: 2017-01-02
+categories:
+  - Video
+description: 
+image: http://dlachlan.net/gilman/imgs/2000/oji3.jpg
+image-sm: http://dlachlan.net/gilman/imgs/500/oji3sm.jpg
+---
+<br>
+
+## New Years Eve at Oji Inari Shrine
+
+<br><br>
+
+<center>
+{% include youtubePlayer.html id="1meAv6dKgig" %}
+</center>
+
+<br>
+
+<p>New Years Eve and New Years Day are both extremely important holidays to the Japanese. For New Years Eve most of my Japanese friends were busy doing things with their families as most Japanese families spend New Years Eve doing an important cleaning of their houses or apartments. This cleaning is important as it serves as a metaphorical clean slate to bring into the new year.</p>
+
+<p>With Shoya and Misato both spending time with their families for New Years Eve, I was kind of left to wander around Machida and the surrounding area(s). I ended up spending the majority of the early evening hanging out at the Taito Game Center in downtown Machida. Throwing 100 yen after 100 yen into the crane games, I was able to win a few Star Wars: Rogue One related items to take back home to America with me.</p>
+
+<p>When my Mom woke up back home, I called her and talked to her after I got back to my apartment. She suggested I go out and do something in Tokyo myself for New Years Eve, having the ability to spend the night out on New Years Eve in Tokyo was a once in a while opportunity so I should take advantage of it. I had intended to spend the entire night out, but I noticed that since the holiday is so important the trains would be running all night long. Which was a bit of a suprise, as I always have to be wary of last train times.</p>
+
+<p> After looking at things to do online in Tokyo for New Years Eve I discovered there was a traditional parade down in the Oji area where people dressed up as Foxes. It seemed interesting to me but apparently had ties to a legend that existed before the Edo Period, where foxes from the Kanto region gathered under a large nettle tree, dressed in human costumes, and visited the Oji Inari Shrine. So I made my way down to the Oji Inari Shrine in time for the Parade and to explore the surrounding area. Managed to get some Neboshi Ramen on my way back to Machida. All in all it was a New Years Eve well spent.</p>
+
+<br>
