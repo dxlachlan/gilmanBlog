@@ -5,8 +5,8 @@ date: 2016-10-23
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/omikoshiMachida.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/omikoshiMachidasm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/omikoshiMachida.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/omikoshiMachidasm.jpg
 ---
 <br>
 

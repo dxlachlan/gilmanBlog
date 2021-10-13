@@ -5,8 +5,8 @@ date: 2016-10-31
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/sakuragichou.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/sakuragichousm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/sakuragichou.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/sakuragichousm.jpg
 ---
 <br>
 

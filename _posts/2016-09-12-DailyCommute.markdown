@@ -5,8 +5,8 @@ date: 2016-09-12
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/obirin.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/obirinsm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/obirin.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/obirinsm.jpg
 ---
 
 <br>

@@ -5,8 +5,8 @@ date: 2016-10-16
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/asianOpen.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/asianOpensm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/asianOpen.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/asianOpensm.jpg
 ---
 <br>
 

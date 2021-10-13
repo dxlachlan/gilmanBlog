@@ -5,8 +5,8 @@ date: 2016-12-27
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/asakusa1.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/asakusa1.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/asakusa1.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/asakusa1.jpg
 ---
 ## Introduction 
 <br>
@@ -16,7 +16,7 @@ image-sm: http://dlachlan.net/gilman/imgs/500/asakusa1.jpg
 ## Hugo to Jekyll
 <center>
 <br>
-<img src="http://dlachlan.net/gilman/imgs/misc/hugo.png" alt=" hugo " style="width: 150px; height: 170px; display: inline-block; padding-right: 5px; "/><img src="http://dlachlan.net/gilman/imgs/misc/jekyll logo.png" alt=" jekyll " style="width:210px; height:160px; display: inline-block; "/>
+<img src="http://dlachlan.tech/gilman/imgs/misc/hugo.png" alt=" hugo " style="width: 150px; height: 170px; display: inline-block; padding-right: 5px; "/><img src="http://dlachlan.tech/gilman/imgs/misc/jekyll logo.png" alt=" jekyll " style="width:210px; height:160px; display: inline-block; "/>
 
 </center>
 <br>
@@ -27,7 +27,7 @@ As one of my goals with this scholarship project was to create a platform I coul
 
 ## GitPages to Netlify
 <br>
-<center><img src="http://dlachlan.net/gilman/imgs/misc/netlify_logo.png" style="width: 150px; height:150px;"/></center>
+<center><img src="http://dlachlan.tech/gilman/imgs/misc/netlify_logo.png" style="width: 150px; height:150px;"/></center>
 <br>
 Initially my page was hosted on GitPages which was convenient. I had it set up with Wercker so that with every commit it would automatically deploy live from the repository to my GitPages site. Since I wanted to repurpose my GitPages to actually host something related to my development work, I began looking for something for dedicated hosting for my Gilman Project Website. I saw Netlify was offering dedicated hosting and had fairly streamlined process to connected the git repo with the files to Netlify and decided to migrate my development process to Netlify. Since then it's offered me a similar process of deployment automative.
 

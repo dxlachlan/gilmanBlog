@@ -5,8 +5,8 @@ date: 2016-11-06
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/snoopy.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/snoopysm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/snoopy.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/snoopysm.jpg
 ---
 <br>
 

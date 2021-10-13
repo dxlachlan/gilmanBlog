@@ -5,8 +5,8 @@ date: 2016-10-05
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/enoshima.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/enoshimasm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/enoshima.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/enoshimasm.jpg
 ---
 <br>
 

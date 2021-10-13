@@ -5,8 +5,8 @@ date: 2017-01-02
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/oji3.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/oji3sm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/oji3.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/oji3sm.jpg
 ---
 <br>
 

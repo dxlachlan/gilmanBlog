@@ -6,10 +6,3 @@
 
 ※After completing my Gilman Project and graduating from UNCC I intend to move back to Japan. After doing so I intend to upgrade this to a blog for future/potential English-speaking expats in Tokyo/Japan.
 
-
-
-## 🏆 – Trophy Jekyll Theme
-This site was built using Jekyll along with a modified version of the Trophy Jekyll theme. Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
-
-## License
-Trophy is licensed under the MIT License.

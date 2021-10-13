@@ -5,8 +5,8 @@ date: 2017-01-08
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/meiji.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/meijism.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/meiji.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/meijism.jpg
 ---
 <br>
 

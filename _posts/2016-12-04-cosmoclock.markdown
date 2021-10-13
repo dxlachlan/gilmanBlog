@@ -5,8 +5,8 @@ date: 2016-12-04
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/cosmomisato.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/cosmomisatosm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/cosmomisato.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/cosmomisatosm.jpg
 ---
 <br>
 

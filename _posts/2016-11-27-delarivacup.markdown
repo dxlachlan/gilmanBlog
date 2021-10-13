@@ -5,8 +5,8 @@ date: 2016-11-20
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/dlrcup.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/dlrcupsm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/dlrcup.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/dlrcupsm.jpg
 ---
 <br>
 

@@ -5,14 +5,14 @@ date: 2017-06-18
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/gilmanThanx.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/gilmanThanxsm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/gilmanThanx.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/gilmanThanxsm.jpg
 ---
 <br>
 
 ## Gilman Project & Thanks
 <center>
-<img src="http://dlachlan.net/gilman/imgs/misc/gilman.gif" alt=" gilman " style="height: 309px; width: 400px;" />
+<img src="http://dlachlan.tech/gilman/imgs/misc/gilman.gif" alt=" gilman " style="height: 309px; width: 400px;" />
 </center>
 <br>
 <p>My entire study abroad experience would have not been possible in due support from the United States Department of State and the Benjamin A. Gilman Scholarship. This entire blog is one of three parts of my follow-on project that was completed within 6 months of my return from studying abroad in Machida, Japan.</p>

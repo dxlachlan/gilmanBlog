@@ -5,8 +5,8 @@ date: 2016-11-13
 categories:
   - Video
 description: 
-image: http://dlachlan.net/gilman/imgs/2000/sengen.jpg
-image-sm: http://dlachlan.net/gilman/imgs/500/sengensm.jpg
+image: http://dlachlan.tech/gilman/imgs/2000/sengen.jpg
+image-sm: http://dlachlan.tech/gilman/imgs/500/sengensm.jpg
 ---
 <br>
 
